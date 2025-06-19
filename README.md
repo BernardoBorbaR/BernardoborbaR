@@ -1,6 +1,5 @@
 <!-- Banner/Profile image -->
 <p align="center">
-  <img src="https://github.com/BernardoBorbaR/BernardoBorbaR/raw/main/README-assets/profile-photo.jpg" width="250" alt="Bernardo Borba profile photo">
 </p>
 
 <h1 align="center">👋 Olá, meu nome é Bernardo Borba!</h1>
@@ -58,9 +57,4 @@ Atualmente eu estou focado em aprender e evoluir nas áreas de **banco de dados*
 
 <p align="center">
   <i>Buscando sempre transformar dados em valor e tornar a tecnologia mais acessível e inteligente para todos!</i>
-</p>
-
-<!-- Imagem de perfil -->
-<p align="center">
-  <img src="![image1](image1)" width="180" alt="Bernardo Borba">
 </p>
