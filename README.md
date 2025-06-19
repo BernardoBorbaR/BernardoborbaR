@@ -7,11 +7,11 @@
 <p align="center"><b>Interessado por Dados & IA | Prompt Engineer em formação</b></p>
 
 <p align="center">
-  <a href="https://github.com/SeuUsuario?tab=followers">
-    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/SeuUsuario?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+  <a href="https://github.com/BernardoBorbaR?tab=followers">
+    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/BernardoBorbaR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
   </a>
-  <a href="https://github.com/SeuUsuario?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/SeuUsuario?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+  <a href="https://github.com/BernardoBorbaR?tab=repositories&sort=stargazers">
+    <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/BernardoBorbaR?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
   </a>
 </p>
 
@@ -87,6 +87,6 @@ Acredito que a combinação entre uma boa estrutura de dados e uma comunicação
 
 <!-- Estatísticas do GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&theme=tokyonight&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BernardoBorbaR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBorbaR&theme=tokyonight&layout=compact" height="180"/>
 </p>
